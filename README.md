@@ -11,7 +11,23 @@ This repository aims to serve as a central hub for anyone interested in learning
 * **Best Practices & Design Patterns**
 * **Implementation Guides**
 * **Industry and Academic Research**
+---
 
+## Folder Structure
+
+```
+/AI-Agents
+│
+├── Docs/
+│   ├── Architecture/
+│   ├── User-Cases/
+│   └── Best Practises/
+│   └── Implementation Guides/
+│   └── README.md 
+│   └── ...
+```
+
+---
 
 ## Document Types
 
