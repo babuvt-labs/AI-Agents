@@ -3,6 +3,8 @@
 
 This will be a comprehensive guide to build the reusable pipeline template for the GitLab AI automation pipeline implementation. This solution includes:
 
+![Alt text](GitLab CI_CD pipeline - visual selection.png)
+
 ## **Key Components:**
 
 1. **Core AI Helper Class** - Centralized OpenAI integration with specialized methods for each task
