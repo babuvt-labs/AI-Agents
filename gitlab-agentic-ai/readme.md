@@ -3,7 +3,8 @@
 
 This will be a comprehensive guide to build the reusable pipeline template for the GitLab AI automation pipeline implementation. This solution includes:
 
-![Alt text](GitLab CI_CD pipeline - visual selection.png)
+![GitLab CI/CD pipeline - visual selection](GitLab%20CI_CD%20pipeline%20-%20visual%20selection.png)
+
 
 ## **Key Components:**
 
