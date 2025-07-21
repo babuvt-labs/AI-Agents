@@ -29,9 +29,8 @@ This will be a comprehensive guide to build the reusable pipeline template for t
 
 ## **Customization Options:**
 
-- Modify prompts in `ai_helper.py` for your specific needs
+- Modify prompts in `ai_helper.py` for  specific needs
 - Adjust file filtering for different languages/frameworks
 - Add integrations with GitLab Issues, Slack, or other tools
 - Implement quality gates for critical findings
 
-Would you like me to elaborate on any specific part of the implementation, such as the AI prompts, cost optimization strategies, or advanced integration features?
