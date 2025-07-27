@@ -299,25 +299,3 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! 🎉 Here's how you can help:
-
-1. Fork the repository.
-2. Add a new use case or improve an existing one.
-3. Submit a pull request with your changes.
-
-Please follow our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 🚀 Let's Build Together!
-
-Feel free to share this repository with your network and star ⭐ it if you find it useful. Let’s collaborate to create the ultimate resource for AI agent use cases!
